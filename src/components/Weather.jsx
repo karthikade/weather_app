@@ -74,7 +74,7 @@ function Weather() {
     },[])
   return (
     <div>
-        <h1> Weather</h1>
+        <h1> Weather Application</h1>
         
         <div className="weather">
             <div className="search-bar">
